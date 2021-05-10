@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Itim', cursive;
+  background-color: #f4eee8;  
+}
+
+h1{
+  margin:0 auto;
+}
+
+.top-container{
+  margin-top: 100px;
+}
+
+.top-cloud{
+position: relative;
+left:200px;
+bottom: 50px;
+
+}
+.cloud-botom{
+  position: absolute;
+}
+
+.mountain{
+}
